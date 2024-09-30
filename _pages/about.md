@@ -23,7 +23,7 @@ Je suis spécialisée dans l'**approche biographique des pratiques culturelles, 
 
 Du point de vue des méthodes, je mobilise fréquemment l'**approche ethnographique** (monographie, observations) et la **méthode par entretiens**, **entretiens semi-dirigés**, **entretiens collectifs**, **en face-à-face ou en visio**. Dans mes enquêtes s'appuyant sur des méthodes mixtes, je recours à l'exploitation de questionnaires, produis des **exploitations secondaires de données** et des **synthèses chiffrées** (la prise en charge des déprimé.es, entre secteur privé, public et privé non lucratif). Je fais également des analyses de corpus (sites institutionnels, contenus culturels).
 
-## Que vais-je trouver sur ce site ?
+## Que trouve-t-on sur ce site ?
 
 Sur ce site web, je mets à disposition la liste de mes **publications scientifiques, collaborations, enseignements, interventions dans les médias**. Vous y trouverez le **contenu de certaines interventions orales**, en séminaire, pour des collectivités ou des associations. J'y propose aussi des **recommandations de lecture et de contenus pertinents sur l'approche de mes objets en sciences sociales**. L'objectif est d'en faire un **lieu ressource pour celles et ceux qui s'intéressent aux métamorphoses du travail, de la psychiatrie et de la culture** : mettre un coup de projecteur sur les découvertes sociologiques de mes collègues, commenter le changement social et partager mes réflexions avec vous. 
 
