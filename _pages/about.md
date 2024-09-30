@@ -11,7 +11,7 @@ Bienvenue sur mon site professionnel !
 
 ## Thèmes de recherche
 
-Docteure, chercheuse et enseignante en sociologie, j'enseigne actuellement à l'Université Lyon 2 dans le cadre du Master Santé mentale au fil des âges. En tant que scientifique, j'investigue plusieurs thématiques, de façon indépendante ou articulée :
+Docteure, chercheuse et enseignante en sociologie, j'enseigne actuellement à l'Université Lyon 2 en Master 2, le cours *Santé mentale au fil des âges*. En tant que scientifique, j'investigue plusieurs thématiques, de façon indépendante ou articulée :
 - **Sociologie de la thérapie, des émotions, de la psychiatrie, psychologie, culture psychologique de masse, développement personnel** 
 - **Sociologie du travail et de la socialisation professionnelle, en particulier les métiers scientifiques** (ingénieur.es financier.es, psychiatres, psychologues), du **travail social** (curatrices professionnelles), du travail **paramédical** (infirmier.es)
 - **Sociologie de la déviance**, dispositifs de régulation, de contrôle social et d'autocontrôle
