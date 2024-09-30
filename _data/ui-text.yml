@@ -136,7 +136,7 @@ fr: &DEFAULT_FR
   comment_success_msg        :
   comment_error_msg          :
   loading_label              :
-  recommended_citation	     : "Pour citer ce texte:"
+  recommended_citation	     : "Pour citer ce texte :"
   dwnl_paper		     : "Télécharger le papier"
   dwnl_slides		     : "Télécharger les slides"
 
