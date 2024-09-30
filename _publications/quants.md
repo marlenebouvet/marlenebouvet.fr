@@ -2,7 +2,7 @@
 title: "Du « matheux » bourgeois au « Quant » corporate. Les héritiers des classes supérieures scientifiques à l’épreuve de la finance londonienne"
 collection: publications
 category: articles
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/quants
 
 authors: "Marlène Bouvet"
 venue: 'Emulations - Revue de sciences sociales, numéro "Des dispositions au travail. L’origine sociale des pratiques professionnelles", coordonné par David Pichonnaz et Kevin Toffel.'
@@ -11,7 +11,7 @@ excerpt: '**Résumé** Comment des héritiers des classes supérieures scientifi
 
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation:**Pour citer cet article** 'Bouvet, M. (2018) « Du « matheux » bourgeois au « Quant » corporate: Les héritiers des classes supérieures scientifiques à l’épreuve de la finance londonienne », Emulations - Revue de sciences sociales, (25), p. 23–43. doi: 10.14428/emulations.025.02.'
+citation: 'Bouvet, M. (2018) « Du « matheux » bourgeois au « Quant » corporate: Les héritiers des classes supérieures scientifiques à l’épreuve de la finance londonienne », Emulations - Revue de sciences sociales, (25), p. 23–43. doi: 10.14428/emulations.025.02.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
