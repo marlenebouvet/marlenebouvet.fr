@@ -45,7 +45,7 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {{ content }}
+        {{ content | replace: "<p>", '<p class="text-justify">' | replace: " ?", "&nbsp;?" | replace: " »", "&nbsp;»" | replace: "« ", "«&nbsp;" }}
 
         {% if page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">{{ site.data.ui-text[site.locale].recommended_citation | default: "Recommended citation:" }} {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>

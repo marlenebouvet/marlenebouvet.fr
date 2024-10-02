@@ -37,6 +37,6 @@
     {% endif %}
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%e/%m/%Y' }}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | replace: "<p>", '<p class="text-justify" itemprop="description">' | replace: " ?", "&nbsp;?" | replace: " »", "&nbsp;»" | replace: "« ", "«&nbsp;" }}</p>{% endif %}
   </article>
 </div>
