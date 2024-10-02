@@ -51,7 +51,7 @@
     {% if post.image %}
 	 <img style="padding-left: 20px" width="200px" align="right" src={{ post.image }}>
     {% endif %}
-    <p class="text-justify" itemprop="description">{{ post.excerpt }}</p>
+    <p class="text-justify" itemprop="description">{{ post.excerpt | markdownify | replace: '<p>', '<p class="text-justify" itemprop="description">' | replace: " ?", "&nbsp;?" | replace: " »", "&nbsp;»" | replace: "« ", "«&nbsp;"}}</p>
     
     {% if post.citation and post.paperurl and post.slidesurl %}
       <p><strong>{{ site.data.ui-text[site.locale].recommended_citation | default: "Recommended citation:" }}</strong> <em>{{ post.citation }}</em><br /><a href="{{ post.paperurl }}">{{ site.data.ui-text[site.locale].dwnl_paper | default: "Download Paper" }}</a> | <a href="{{ post.slidesurl }}">{{ site.data.ui-text[site.locale].dwnl_slides | default: "Download Slides" }}</a></p>
