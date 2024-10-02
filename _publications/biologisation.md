@@ -9,7 +9,6 @@ venue: "Biologisation(s). Les usages sociaux de l‘argument biologique en sant�
 date: 2023-06-22
 excerpt: ""
 
-citation: 'Marlène Bouvet. La biologisation bienveillante des déprimé·es en clinique privée. Biologisation(s), ENS Éditions, pp.71-95, 2023.'
+citation: 'Marlène Bouvet. La biologisation bienveillante des déprimé·es en clinique privée. Biologisation(s), ENS Éditions, pp.71-95, 2023. URL : https://books.openedition.org/enseditions/45791?lang=en.'
 
-paperurl: 'https://books.openedition.org/enseditions/45791?lang=en'
 ---
