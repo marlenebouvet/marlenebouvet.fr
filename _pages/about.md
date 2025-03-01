@@ -9,6 +9,8 @@ redirect_from:
 
 Bienvenue sur mon site professionnel !
 
+## Actualités
+
 ## Thèmes de recherche
 
 Docteure, chercheuse et enseignante en sociologie, j'enseigne actuellement à l'Université Lyon 2 en Master 2, le cours *Santé mentale au fil des âges*. En tant que scientifique, j'investigue plusieurs thématiques, de façon indépendante ou articulée :
