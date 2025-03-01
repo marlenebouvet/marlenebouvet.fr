@@ -2,6 +2,7 @@
 title: "Goûts, pratiques et usages culturels des jeunes en milieux populaires"
 collection: talks
 type: "Talk"
+category: diffusion
 permalink: /talks/injep-2020
 venue: "Centre Georges Pompidou, Paris"
 date: 2020-10-07

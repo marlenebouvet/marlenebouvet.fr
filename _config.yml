@@ -83,6 +83,15 @@ publication_category:
   articles:
     title: "Articles et chapitres d'ouvrages"
 
+talk_category:
+  congres:
+    title: 'Congrès & colloques'
+  seminar:
+    title: |
+      Journées d'étude & séminaires
+  diffusion:
+    title: 'Interventions hors les murs & diffusion'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
