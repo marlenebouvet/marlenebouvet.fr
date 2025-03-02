@@ -24,7 +24,7 @@ Je suis spécialisée dans l'**approche biographique des pratiques culturelles, 
 
 ## Méthodes
 
-Du point de vue des méthodes, je mobilise fréquemment l'**approche ethnographique** (monographie, observations) et la **méthode par entretiens**, **entretiens semi-dirigés**, **entretiens collectifs**, **en face-à-face ou en visio**. Dans mes enquêtes s'appuyant sur des méthodes mixtes, je recours à l'exploitation de questionnaires, produis des **exploitations secondaires de données** et des **synthèses chiffrées** (la prise en charge des déprimé.es, entre secteur privé, public et privé non lucratif). Je fais également des analyses de corpus (sites institutionnels, contenus culturels).
+Du point de vue des outils d'enquête, je mobilise fréquemment l'**approche ethnographique** (monographie, observations) et la **méthode par entretiens**, **entretiens semi-dirigés**, **entretiens collectifs**, **en face-à-face ou en visio**. Dans mes investigations fondées sur des méthodes mixtes, je recours à l'exploitation de **questionnaires**, produis des **exploitations secondaires de données** et des **synthèses chiffrées** (la prise en charge des déprimé.es, entre secteur privé, public et privé non lucratif). Je fais également des **analyses de corpus** (sites institutionnels, contenus culturels).
 
 ## Que trouve-t-on sur ce site ?
 
