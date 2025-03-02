@@ -11,11 +11,17 @@ main:
   - title: "Communications"
     url: /talks/    
 
-  - title: "Portfolio d'enseignement"
-    url: /teaching/    
-    
   - title: "Blog & Recensions"
     url: /year-archive/
-    
+
+  - title: "Portfolio d'enseignement"
+    url: /teaching/
+
+  - title: "Évènements"
+    url: /events/
+
+  - title: "Responsabilités"
+    url: /responsibilities/
+
   - title: "CV"
     url: /cv/
