@@ -6,7 +6,7 @@ institution: "Centre Max Weber"
 venue: "ENS de Lyon"
 date: "11/01/2019"
 ---
-Responsabilité scientifique et logistique du séminaire, avec M. Dupré et C. Détrez. Contact des invité·e·s, rédaction des textes de diffusion (en ligne), contact gestionnaires (buffets). 
+Responsabilité scientifique et logistique du **séminaire transversal du Centre Max Weber**, avec M. Dupré et C. Détrez. Contact des invité·e·s, rédaction des textes de diffusion (en ligne), contact gestionnaires (buffets). 
 - **11 janvier 2019** : Parcours de chercheur - présentation de **François Héran**. 
 - **15 mars 2019** : Sexualités en mouvement - **Abir Krefa** et **Maks Banens**.
 
