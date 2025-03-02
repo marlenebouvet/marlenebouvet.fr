@@ -1,5 +1,5 @@
 ---
-title: JOURNÉES D'ÉTUDE - "Analyse structurale et dispositionnelle du travail"
+title: "Analyse structurale et dispositionnelle du travail"
 collection: "events"
 category: "journeedetude"
 venue: "CNAM, Paris"

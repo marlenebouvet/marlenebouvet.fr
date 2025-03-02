@@ -1,5 +1,5 @@
 ---
-title: "JOURNÉE D’ÉTUDE INTERDISCIPLINAIRE - "Croiser les dominations. Des aspérités du terrain aux défis de l'interprétation"                       
+title: "Croiser les dominations. Des aspérités du terrain aux défis de l'interprétation"                       
 collection: "events"  
 category: "journeedetude"
 venue: "ENS de Lyon"
