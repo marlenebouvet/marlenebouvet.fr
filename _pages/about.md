@@ -1,12 +1,14 @@
 ---
 layout: main
 permalink: /
-title: "Mon parcours en bref"
+title: "Affiliation actuelle"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+ ***Docteure en sociologie rattachée à l'Ecole Normale Supérieure de Lyon, Equipe DPCV (Dispositions, Pouvoirs, Cultures et Socialisations), Centre Max Weber***
+
 
 ## Thèmes de recherche
 
