@@ -1,4 +1,5 @@
 ---
+layout: main
 permalink: /
 title: "Qui suis-je ?"
 author_profile: true
@@ -8,8 +9,6 @@ redirect_from:
 ---
 
 Bienvenue sur mon site professionnel !
-
-## Actualités
 
 ## Thèmes de recherche
 

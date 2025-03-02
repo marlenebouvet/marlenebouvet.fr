@@ -245,7 +245,9 @@ collections:
   responsibilities:
     output: true
     permalink: /:collection/:path/
-
+  news:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -311,7 +313,7 @@ defaults:
       author_profile: true
       share: true
       comment: false
-   # _responsibilities
+  # _responsibilities
   - scope:
       path: ""
       type: responsibilities
@@ -319,6 +321,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comment: false
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      share: false
       comment: false
 
 # Sass/SCSS
