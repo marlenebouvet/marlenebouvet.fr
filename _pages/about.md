@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- ***Docteure en sociologie rattachée à l'Ecole Normale Supérieure de Lyon, Equipe DPCV (Dispositions, Pouvoirs, Cultures et Socialisations), Centre Max Weber***
+ ***Docteure en sociologie rattachée à l'Ecole Normale Supérieure de Lyon, Equipe DPCS (Dispositions, Pouvoirs, Cultures et Socialisations), Centre Max Weber.***
 
 
 ## Thèmes de recherche
