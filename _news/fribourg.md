@@ -1,6 +1,6 @@
 ---
 date: 27/08/2025
-title: Les dilemmes de l' « aide contrainte » : enjeux et pratiques du travail social imposé
+title: "Les dilemmes de l' « aide contrainte » : enjeux et pratiques du travail social imposé"
 show: true
 ---
 Colloque international interdisciplinaire **Humaniser le travail social ? Des métiers en dilemmes et en (re)configurations**, organisé à la **Haute école de travail social**, Fribourg (Suisse).
