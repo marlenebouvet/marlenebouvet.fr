@@ -5,6 +5,8 @@ show: false
 ---
 Participation conjointe, avec Ivan Garrec, à l'évènement **Déplier le genre de la santé mentale. Quelles méthodes pour une approche intersectionnelle ?** co-organisé par Eugenia Alcalde, Anne-Sophie Cousteaux, Déborah Guy, Camille Lancelevée et Anne-Sophie Vozari.
 
+**Lieu** : Auditorium Humathèque, Campus d'Aubervilliers
+
 <img src="https://marlenebouvet.fr/images/logo_gendhi-9d9" width="384" height="598" alt="Logo du groupement scientifique organisateur">
 
 [Appel à communications et programme disponibles *ici*.](C:\Users\marle\Desktop\SITE WEB.pdf)
