@@ -1,20 +1,15 @@
 ---
-title: 'Blog Post number 3'
-date: 2014-08-14
-permalink: /posts/2014/08/blog-post-3/
+title: "Compte-rendu de « Sonia Desmoulins-Canselier, Marie Gaille et Baptiste Moutaud, 2019, La stimulation cérébrale profonde, de l’innovation au soin. Les neurosciences cliniques à la lumière des sciences humaines et sociales »"
+date: 2019
+
+category: "Recensions"
 tags:
-  - cool posts
-  - category1
-  - category2
+  - psychiatrie
+  - émotions
+  - genre
+  - club méd
+  - consommation 
+  - culture
+  - capitalisme
 ---
-
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. 
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+Présentation et discussion de l’ouvrage en présence des auteurs, Séminaire ***« Corps et sciences sociales »*** dirigé par **Dominique Memmi** (**Salle des actes du Panthéon**).

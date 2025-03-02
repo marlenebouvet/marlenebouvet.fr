@@ -1,20 +1,16 @@
 ---
-title: 'Blog Post number 4'
-date: 2015-08-14
-permalink: /posts/2012/08/blog-post-4/
+title: "Compte-rendu de « François Sicot (dir.), Les parcours de soins en psychiatrie au prisme d'une analyse sociologique  »"
+date: 2019-06-22
+citation: "Marlène Bouvet, « François Sicot (dir.), Les parcours de soins en psychiatrie au prisme d'une analyse sociologique  », Lectures [En ligne], Les comptes rendus, mis en ligne le 27 août 2021."
+
+category: "Recensions"
 tags:
-  - cool posts
-  - category1
-  - category2
+  - psychiatrie
+  - émotions
+  - clinique
+  - sélection 
+  - hospitalisation
+  - dossier patient
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+http://journals.opensedition.org/lectures/22988
