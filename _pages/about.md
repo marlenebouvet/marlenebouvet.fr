@@ -1,24 +1,23 @@
 ---
 layout: main
 permalink: /
-title: "Qui suis-je ?"
+title: "Mon parcours en bref"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-**Mon parcours en bref** :
 
-**Post-doctorat** au sein de la *Haute Ecole Spécialisée de Suisse Occidentale*
+**2023 - 2024** : **post-doctorat** au sein de la *Haute Ecole Spécialisée de Suisse Occidentale*
 
-**Attachée Temporaire d'Enseignement et de Recherche** au sein de : 
+**2021 - 2023** : **Attachée Temporaire d'Enseignement et de Recherche** au sein de : 
 - ***Université de Clermont Auvergne*** (2 ans)
 - ***Université Paris Dauphine***
 - ***Université Lyon 2***
 
-**Mission pour l'INJEP** au sein du ***Ministère de la jeunesse et des sports*** (contrat de recherche)
+**Janvier - Août 2019** : coordination et participation à une enquête collective commandée par **l'INJEP** au sein du ***Ministère de la jeunesse et des sports*** (contrat de recherche)
 
-**Contrat doctoral & monitorat** au sein de l'***Ecole Normale Supérieure de Lyon*** (3 ans)
+**2015 - 2018** : contrat doctoral & monitorat** au sein de l'***Ecole Normale Supérieure de Lyon*** (3 ans)
 
 ## Thèmes de recherche
 
