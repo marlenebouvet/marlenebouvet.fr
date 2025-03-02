@@ -14,4 +14,4 @@ tags:
   - vétérans
 ---
 
-[Compte-rendu disponible *ici*.](https://labotpg.hypotheses.org/216)http://journals.opensedition.org/lectures/22988
+[Compte-rendu disponible *ici*.](http://journals.opensedition.org/lectures/22988)
