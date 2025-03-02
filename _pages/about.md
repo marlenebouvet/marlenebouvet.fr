@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
- ***Docteure en sociologie rattachée à l'Ecole Normale Supérieure de Lyon, Equipe DPCS (Dispositions, Pouvoirs, Cultures et Socialisations), Centre Max Weber.***
+ ***Docteure en sociologie rattachée à l'Ecole Normale Supérieure de Lyon, Equipe DPCS (Dispositions, Pouvoirs, Cultures et Socialisations), Centre Max Weber. Je suis également enseignante vacataire à l'Université Paris-Saclay (Master Santé publique) et l'Université Lyon 2 (Master Santé et vieillissement).***
 
 
 ## Thèmes de recherche
 
-Docteure, chercheuse et enseignante en sociologie, j'enseigne actuellement à l'Université Lyon 2 en Master 2, le cours *Santé mentale au fil des âges*. En tant que scientifique, j'investigue plusieurs thématiques, de façon indépendante ou articulée :
+En tant que docteure en sociologie, j'investigue plusieurs thématiques, de façon indépendante ou articulée :
 - **Sociologie de la thérapie**, des **émotions** et de la **santé mentale**, de la **psychiatrie, psychologie, culture psychologique de masse, développement personnel**, en particulier au prisme de la classe sociale, du genre et des trajectoires migratoires  
 - **Sociologie du travail et de la socialisation professionnelle**, en particulier les **métiers scientifiques** (ingénieur.es financier.es, psychiatres, psychologues), du **travail social** (curatrices professionnelles), du travail **paramédical** (infirmier.es)
 - **Sociologie de la déviance**, dispositifs de régulation, de contrôle social et d'autocontrôle, rapport aux normes de genre et de classe
