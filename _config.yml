@@ -92,6 +92,12 @@ talk_category:
   diffusion:
     title: 'Interventions hors les murs & diffusion'
 
+teaching_category:
+  TD:
+    title: 'Travaux dirigés'
+  CM:
+    title: 'Cours magistral'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
