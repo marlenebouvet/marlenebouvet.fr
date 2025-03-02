@@ -1,12 +1,12 @@
 ---
 date: 07/03/2025
-title: Les dilemmes de l' « aide contrainte » : enjeux et pratiques du travail social imposé 
+title: Les dilemmes de l' « aide contrainte » : enjeux et pratiques du travail social imposé
 show: true
 ---
 Colloque international interdisciplinaire **Humaniser le travail social ? Des métiers en dilemmes et en (re)configurations**, organisé à la **Haute école de travail social**, Fribourg (Suisse).
 
-Sélection des contributions et animation scientifique d'un panel au sein du colloque, avec **Agnès Aubry** et **David Pichonnaz**. 
+Proposition et sélection des communications pour une Session thématique, avec **Agnès Aubry** et **David Pichonnaz**. 
 
-[Texte de l'appel à communications pour le panel Dilemmes *ici*.](https://drive.switch.ch/index.php/s/3QSOEsvVO5SsA8a)
+[Texte de l'appel à communications pour la session thématique Dilemmes *ici*.](https://drive.switch.ch/index.php/s/3QSOEsvVO5SsA8a)
 
-[Présentation du colloque *ici*.](https://www.hes-so.ch/de/humaniserts-2025/sessions-thematiques)
+[Présentation générale du colloque *ici*.](https://www.hes-so.ch/de/humaniserts-2025/sessions-thematiques)

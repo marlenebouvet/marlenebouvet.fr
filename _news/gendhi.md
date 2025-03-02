@@ -5,6 +5,6 @@ show: true
 ---
 Participation conjointe, avec Ivan Garrec, à l'évènement **Déplier le genre de la santé mentale. Quelles méthodes pour une approche intersectionnelle ?** co-organisé par Eugenia Alcalde, Anne-Sophie Cousteaux, Déborah Guy, Camille Lancelevée et Anne-Sophie Vozari.
 
-**Lieu** : Auditorium Humathèque, Campus d'Aubervilliers
+**Lieu** : Auditorium Humathèque, Campus d'Aubervilliers.
 
 [Descriptif et programme disponibles *ici*.](https://gendhi.eu/actualite/journee-detude-deplier-le-genre-de-la-sante-mentale-quelles-methodes-pour-une-approche-intersectionnelle/)
