@@ -7,8 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Bienvenue sur mon site professionnel !
+**Mon parcours en bref** :
+- **POST-DOC** au sein de la *Haute Ecole Spécialisée de Suisse Occidentale*
+- **ATER** au sein de l'*Université de Clermont Auvergne* (2 ans)
+- **ATER** au sein de l'*Université Paris Dauphine*
+- **ATER** au sein de l'*Université Lyon 2*
+- **INJEP** au sein du *Ministère de la jeunesse et des sports* (contrat de recherche)
+- **CONTRAT DOCTORAL & MONITORAT** au sein de l'*Ecole Normale Supérieure de Lyon* (3 ans)
 
 ## Thèmes de recherche
 
