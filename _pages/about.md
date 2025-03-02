@@ -19,11 +19,6 @@ redirect_from:
 **Mission pour l'INJEP** au sein du ***Ministère de la jeunesse et des sports*** (contrat de recherche)
 
 **Contrat doctoral & monitorat** au sein de l'***Ecole Normale Supérieure de Lyon*** (3 ans)
-- ***Université Lyon 2***
-
-**Mission pour l'INJEP** au sein du ***Ministère de la jeunesse et des sports*** (contrat de recherche)
-
-**Contrat doctoral & monitorat** au sein de l'***Ecole Normale Supérieure de Lyon*** (3 ans)
 
 ## Thèmes de recherche
 
