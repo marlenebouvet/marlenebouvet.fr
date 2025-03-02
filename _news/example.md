@@ -8,6 +8,7 @@ Participation conjointe, avec Ivan Garrec, à l'évènement **Déplier le genre 
 <img src="https://marlenebouvet.fr/images/logo_gendhi-9d9" width="384" height="598" alt="Logo du groupement scientifique organisateur">
 
 [Appel à communications et programme disponibles *ici*.](C:\Users\marle\Desktop\SITE WEB.pdf)
-paperurl: 'C:\Users\marle\Desktop\SITE WEB.pdf'
+
+paperurl: "C:\Users\marle\Desktop\SITE WEB.pdf"
 
 
