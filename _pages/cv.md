@@ -20,12 +20,16 @@ Diplômes
 
 Expérience professionnelle
 ======
-* POST-DOC - Haute Ecole Spécialisée de Suisse Occidentale 
-* ATER - Université de Clermont Auvergne (2 ans)
-* ATER - Université Paris Dauphine
-* ATER - Université Lyon 2
-* INJEP - Ministère de la jeunesse et des sports (contrat de recherche)
-* MONITORAT - Ecole Normale Supérieure de Lyon (3 ans)
 
+**2023 - 2024** : **post-doctorat** au sein de la ***Haute Ecole Spécialisée de Suisse Occidentale (HES-SO)***
+
+**2019 - 2023** : **Attachée Temporaire d'Enseignement et de Recherche** : 
+- ***Université de Clermont Auvergne*** (UCA)
+- ***Université Paris Dauphine***
+- ***Université Lyon 2***
+
+**2019** : coordination et participation à une enquête collective commandée par **l'INJEP** au sein du ***Ministère de la jeunesse et des sports*** (contrat de recherche)
+
+**2015 - 2018** : contrat doctoral & monitorat** au sein de l'***Ecole Normale Supérieure de Lyon*** (3 ans)
 
 

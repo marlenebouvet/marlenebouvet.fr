@@ -8,17 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**2023 - 2024** : **post-doctorat** au sein de la ***Haute Ecole Spécialisée de Suisse Occidentale (HES-SO)***
-
-**2019 - 2023** : **Attachée Temporaire d'Enseignement et de Recherche** : 
-- ***Université de Clermont Auvergne*** (UCA)
-- ***Université Paris Dauphine***
-- ***Université Lyon 2***
-
-**2019** : coordination et participation à une enquête collective commandée par **l'INJEP** au sein du ***Ministère de la jeunesse et des sports*** (contrat de recherche)
-
-**2015 - 2018** : contrat doctoral & monitorat** au sein de l'***Ecole Normale Supérieure de Lyon*** (3 ans)
-
 ## Thèmes de recherche
 
 Docteure, chercheuse et enseignante en sociologie, j'enseigne actuellement à l'Université Lyon 2 en Master 2, le cours *Santé mentale au fil des âges*. En tant que scientifique, j'investigue plusieurs thématiques, de façon indépendante ou articulée :
