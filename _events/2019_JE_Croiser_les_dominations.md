@@ -3,8 +3,8 @@ title: "Croiser les dominations. Des aspérités du terrain aux défis de l'inte
 collection: "events"  
 category: "journeedetude"
 venue: "ENS de Lyon"
-institution: "Labo junior Altérités, marginalités, catégorisations - ENS de Lyon"                             "
-date: "oct. 2019"
+institution: "Labo junior Altérités, marginalités, catégorisations - ENS de Lyon"
+date: "18/10/2019"
 paperurl: "https://alterites.hypotheses.org/files/2019/06/AAC-Croiser-les-dominations-Des-asp%C3%A9rit%C3%A9s-du-terrain-aux-d%C3%A9fis-de-linterpr%C3%A9tation.pdf"
 ---
 ![Croiser les dominations, l'affiche](https://alterites.hypotheses.org/files/2019/09/Affiche-FINAL_compressed-page-001-768x1097.jpg "Affiche: Croiser les dominations")
