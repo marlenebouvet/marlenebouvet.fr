@@ -9,7 +9,7 @@ excerpt: "Pauvreté. Queer. Handicap. Ethnicité. Domination. Frontières. Omnip
 
 L'ouvrage est disponible en version papier, en version numérique (format Epub) et en Open Access.
 
-[Introduction sur l'imbrication du pouvoir et des processus de catégorisation ; Stéréotypes, Psychologisation, Biologisation, Passing, Santé, Race, Corps, Genre, Classe, Âge... Toutes les notices en accès libre *ici*.](https://books.openedition.org/enseditions/58561?lang=en)
+[Introduction sur l'imbrication du pouvoir et des processus de catégorisation ; Stéréotypes, Psychologisation, Biologisation, Passing, Santé, Race, Corps, Genre, Classe, Âge... Toutes les notices en accès libre *ici*.](https://books.openedition.org/enseditions/58561?lang=en)"
 
 date: 2024-05-16
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'

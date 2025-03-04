@@ -1,6 +1,6 @@
 ---
 title: "Compte-rendu de « Sonia Desmoulins-Canselier, Marie Gaille et Baptiste Moutaud, 2019, La stimulation cérébrale profonde, de l’innovation au soin. Les neurosciences cliniques à la lumière des sciences humaines et sociales »"
-date: 2019
+date: 31/12/2019
 permalink: 
 category: "Recensions"
 tags:
